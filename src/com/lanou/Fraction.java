@@ -1,4 +1,4 @@
-package com.lanou;
+
 
 public class Fraction {
     private int molecule;
